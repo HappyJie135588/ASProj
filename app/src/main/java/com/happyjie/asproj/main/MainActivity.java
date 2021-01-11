@@ -2,7 +2,10 @@ package com.happyjie.asproj.main;
 
 import android.os.Bundle;
 
+import androidx.databinding.DataBindingUtil;
+
 import com.happyjie.asproj.R;
+import com.happyjie.asproj.databinding.ActivityMainBinding;
 import com.happyjie.asproj.main.logic.MainActivityLogic;
 import com.happyjie.common.ui.component.HiBaseActivity;
 
